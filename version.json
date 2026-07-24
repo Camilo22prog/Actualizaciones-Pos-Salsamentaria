@@ -1,6 +1,6 @@
 {
-    "Version": "1.1.1",
-    "Notes": "- Ampliacion del panel de compras con calculadora\n- Correccion en validacion de pagos Nequi/Daviplata",
-    "DownloadUrl": "https://github.com/Camilo22prog/Actualizaciones-Pos-Salsamentaria/releases/download/v1.1.1/POS_Update_1.1.1.zip",
-    "ReleaseDate": "2026-07-23T19:30:00"
+    "Version": "1.1.2",
+    "Notes": "- Calculadora financiera completa de compras\n- Corrección de permisos de administrador para actualizaciones automáticas",
+    "DownloadUrl": "https://github.com/Camilo22prog/Actualizaciones-Pos-Salsamentaria/releases/download/v1.1.2/POS_Update_1.1.2.zip",
+    "ReleaseDate": "2026-07-23T19:55:00"
 }
