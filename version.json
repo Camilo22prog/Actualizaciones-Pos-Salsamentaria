@@ -1,6 +1,6 @@
 {
-    "Version": "1.1.0",
-    "Notes": "Modificación de precios de compra/venta en Ajuste de Stock, y fix para propiedad sombra de base de datos.",
-    "DownloadUrl": "https://github.com/Camilo22prog/Actualizaciones-Pos-Salsamentaria/releases/download/v1.1.0/POS_Update_1.1.0.zip",
-    "ReleaseDate": "2026-07-01T18:40:00"
+    "Version": "1.1.1",
+    "Notes": "- Ampliacion del panel de compras con calculadora\n- Correccion en validacion de pagos Nequi/Daviplata",
+    "DownloadUrl": "https://github.com/Camilo22prog/Actualizaciones-Pos-Salsamentaria/releases/download/v1.1.1/POS_Update_1.1.1.zip",
+    "ReleaseDate": "2026-07-23T19:30:00"
 }
