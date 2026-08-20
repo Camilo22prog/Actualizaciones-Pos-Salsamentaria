@@ -1,6 +1,6 @@
 {
-    "Version": "1.1.2",
-    "Notes": "- Calculadora financiera completa de compras\n- Corrección de permisos de administrador para actualizaciones automáticas",
-    "DownloadUrl": "https://github.com/Camilo22prog/Actualizaciones-Pos-Salsamentaria/releases/download/v1.1.2/POS_Update_1.1.2.zip",
-    "ReleaseDate": "2026-07-23T19:55:00"
+  "Version": "1.1.4",
+  "Notes": "Mejoras en conversores, interfaz y correcciones.",
+  "DownloadUrl": "https://github.com/Camilo22prog/Actualizaciones-Pos-Salsamentaria/releases/download/v1.1.4/POS_Update_1.1.4.zip",
+  "ReleaseDate": "2024-08-20T00:00:00Z"
 }
